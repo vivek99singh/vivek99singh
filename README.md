@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vivek99singh
 - 👀 I’m interested in exploring cloud and data.
-- 🌱 I’m currently learning Synapse Analytics
-- 💞️ I’m looking to collaborate on Synapse Analytics
+- 🌱 I’m currently working on openshift
 - 📫 You can reach me via email on vivek.99.singh@gmail.com
 
 <!---
