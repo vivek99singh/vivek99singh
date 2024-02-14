@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
 - 👀 I’m interested in exploring cloud and data.
-- 🌱 I’m currently working on Openshift and Python
+- 🌱 I’m currently working on Python and Azure . 
 - 📫 You can reach me via email on vivek.99.singh@gmail.com
 
 <!---
