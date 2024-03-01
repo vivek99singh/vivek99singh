@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Azure , AWS , SQL Server Database, Azure Devops, Gitlab , Datalake , Lakehouse , WatsonX , Databricks**
+- 💬 Ask me about **Azure , AWS , SQL Server Database, Azure Devops, Github , Datalake , Lakehouse , WatsonX , Databricks**
 
 - 📫 How to reach me **vivek.99.singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/viveksingh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viveksingh99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viveksingh991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viveksingh99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
