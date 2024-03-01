@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate engineer currently in Finland.</h3>
+<h3 align="center">A passionate and curious engineer .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek99singh" alt="vivek99singh" /></a> </p>
 
