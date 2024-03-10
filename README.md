@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate and curious engineer .</h3>
-
+<!--
 ##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek99singh" alt="vivek99singh" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Azure , AWS , SQL Server Database, Azure Devops, Github , Datalake , Lakehouse , WatsonX , Databricks**
-
+<!--
 ##- 📫 How to reach me **vivek.99.singh@gmail.com**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viveksingh991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viveksingh99" height="30" width="40" /></a>
