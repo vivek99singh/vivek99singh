@@ -4,7 +4,7 @@ Cloud and platform solution architect at IBM. I work on hybrid cloud and OpenShi
 infrastructure as code with Terraform on Azure and AWS, and IT risk automation
 with IBM Concert.
 
-**Ask me about:** hybrid cloud and OpenShift platform architecture · Azure and AWS landing zones ·
+**Ask me about:** Hybrid cloud and OpenShift platform architecture · Azure and AWS landing zones ·
 infrastructure as code with Terraform · IT risk and vulnerability management with IBM Concert ·
 data and AI platforms (Databricks, watsonx.data)
 
