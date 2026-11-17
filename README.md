@@ -1,6 +1,6 @@
 # Vivek Singh
 
-Cloud and platform engineer at IBM. I work on hybrid cloud and OpenShift,
+Cloud and platform solution architect at IBM. I work on hybrid cloud and OpenShift,
 infrastructure as code with Terraform on Azure and AWS, and IT risk automation
 with IBM Concert.
 
